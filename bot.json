@@ -1,1 +1,7 @@
-hi
+[
+{
+"action": "talk",
+"voiceName": "Chipmunk",
+"text": "Yo, this is Chipmunk. I am created with Nexmo Voice API!"
+}
+]
